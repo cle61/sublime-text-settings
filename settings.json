@@ -16,6 +16,16 @@
 	[
 		"draw_normal"
 	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"tmp/*",
+		"log/*",
+		"node_modules/*"
+	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"overlay_scroll_bars": "enabled",
